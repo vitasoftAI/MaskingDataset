@@ -1,7 +1,7 @@
 # Datasets
 Dataset 설명
 
-# Segmentation
+# Matting
 ## Videos Matting
 ### Youtube VIS(Video Instance Segmentation)
 - tasks for simultaneous detection, segmentation, tracking object in videos
