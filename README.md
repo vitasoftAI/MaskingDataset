@@ -29,3 +29,13 @@ Dataset 설명
 
 ### AIM-500
 - https://github.com/JizhiziLi/AIM
+
+## Image Matting
+
+### AM-2K (Animal Matting)
+- 2,000 high resolution natural animal images from 20 categories along with labeled alpha mattes. 
+- [link](https://github.com/JizhiziLi/GFM)
+
+### BG-20K (Background Matting)
+- 20,000 high resolution background images (excluded salient objects) which can be used to help generate high quality synthetic data
+- [link](https://github.com/JizhiziLi/animal-matting)
