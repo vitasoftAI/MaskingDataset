@@ -1,4 +1,4 @@
-# Datasets
+# MaskingDatasets
 Dataset 설명
 
 # Matting
@@ -26,3 +26,6 @@ Dataset 설명
 - 13,665 images
 - shot with studio-quality lighting and cameras in front of a green-screen
 - mattes extracted via chroma-key algorithms with manual tuning and error repair
+
+### AIM-500
+- https://github.com/JizhiziLi/AIM
